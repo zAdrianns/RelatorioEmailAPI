@@ -1,0 +1,16 @@
+C:\Users\Adrian.Neves\source\repos\EnvioEmailAPI\EnvioEmailAPI\publish\EnvioEmailAPI.exe
+C:\Users\Adrian.Neves\source\repos\EnvioEmailAPI\EnvioEmailAPI\publish\appsettings.Development.json
+C:\Users\Adrian.Neves\source\repos\EnvioEmailAPI\EnvioEmailAPI\publish\appsettings.json
+C:\Users\Adrian.Neves\source\repos\EnvioEmailAPI\EnvioEmailAPI\publish\EnvioEmailAPI.dll
+C:\Users\Adrian.Neves\source\repos\EnvioEmailAPI\EnvioEmailAPI\publish\EnvioEmailAPI.deps.json
+C:\Users\Adrian.Neves\source\repos\EnvioEmailAPI\EnvioEmailAPI\publish\EnvioEmailAPI.runtimeconfig.json
+C:\Users\Adrian.Neves\source\repos\EnvioEmailAPI\EnvioEmailAPI\publish\EnvioEmailAPI.pdb
+C:\Users\Adrian.Neves\source\repos\EnvioEmailAPI\EnvioEmailAPI\publish\BouncyCastle.Cryptography.dll
+C:\Users\Adrian.Neves\source\repos\EnvioEmailAPI\EnvioEmailAPI\publish\MailKit.dll
+C:\Users\Adrian.Neves\source\repos\EnvioEmailAPI\EnvioEmailAPI\publish\Microsoft.OpenApi.dll
+C:\Users\Adrian.Neves\source\repos\EnvioEmailAPI\EnvioEmailAPI\publish\MimeKit.dll
+C:\Users\Adrian.Neves\source\repos\EnvioEmailAPI\EnvioEmailAPI\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Adrian.Neves\source\repos\EnvioEmailAPI\EnvioEmailAPI\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Adrian.Neves\source\repos\EnvioEmailAPI\EnvioEmailAPI\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Adrian.Neves\source\repos\EnvioEmailAPI\EnvioEmailAPI\publish\System.Security.Cryptography.Pkcs.dll
+C:\Users\Adrian.Neves\source\repos\EnvioEmailAPI\EnvioEmailAPI\publish\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
